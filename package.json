@@ -1,6 +1,6 @@
 {
   "name": "robofriends2",
-  "website": "https://chrischandler.github.io/robofriends3/",
+  "homepage": "https://chrischandler.github.io/robofriends3/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
